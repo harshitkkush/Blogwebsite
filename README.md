@@ -1,8 +1,4 @@
 # Blogwebsite
-Absolutely! Here’s a **professional, clean, starter `README.md`** for your MERN blog project.
-
-You can copy–paste this into a file called `README.md` in your project root.
-I’ve made it clear, beginner-friendly but also professional.
 
 ---
 
